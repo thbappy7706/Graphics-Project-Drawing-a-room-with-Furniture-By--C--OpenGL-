@@ -11,9 +11,9 @@
      
  ## Reff: 
  
-       https://docs.microsoft.com/en-us/windows/win32/opengl/opengl-reference
+   https://docs.microsoft.com/en-us/windows/win32/opengl/opengl-reference
  
-       http://cse.csusb.edu/tongyu/courses/cs520/notes/intro.php
+   http://cse.csusb.edu/tongyu/courses/cs520/notes/intro.php
        
  ##  Youtube Link:
  
